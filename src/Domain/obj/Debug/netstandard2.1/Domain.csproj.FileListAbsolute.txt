@@ -1,0 +1,10 @@
+C:\Projects\dotnet\plotter-platform-backend\src\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+C:\Projects\dotnet\plotter-platform-backend\src\Domain\bin\Debug\netstandard2.1\Domain.dll
+C:\Projects\dotnet\plotter-platform-backend\src\Domain\bin\Debug\netstandard2.1\Domain.pdb
+C:\Projects\dotnet\plotter-platform-backend\src\Domain\obj\Debug\netstandard2.1\Domain.csproj.AssemblyReference.cache
+C:\Projects\dotnet\plotter-platform-backend\src\Domain\obj\Debug\netstandard2.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\dotnet\plotter-platform-backend\src\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\Projects\dotnet\plotter-platform-backend\src\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\Projects\dotnet\plotter-platform-backend\src\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Projects\dotnet\plotter-platform-backend\src\Domain\obj\Debug\netstandard2.1\Domain.dll
+C:\Projects\dotnet\plotter-platform-backend\src\Domain\obj\Debug\netstandard2.1\Domain.pdb
